@@ -1,9 +1,9 @@
 # BOX MODEL
 
 - Os elementos HTML são exergados como caixas
-- Retangulares.
+- São Retangulares.
 
-- É composto de 4 partes(áreas), que definem um limite para o conteúdo (content).
+- O Box Model é composto de 4 partes(áreas), que definem um limite para o conteúdo (content).
     1. Margin (top, rigth, bottom, left)
     2. Border (top|right|bottom|left, style, width, color )
     3. Padding (tio|right|bottom|left)
