@@ -1,0 +1,50 @@
+/* body {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  margin: 0;
+} */
+
+div {
+  background-color: red;
+  font-size: 28px;
+  color: #fff;
+  text-align: center;
+
+  /* Content: width & height*/
+  width: 500px;
+  height: 500px;
+
+  /* paddding: preenchimento*/
+  /*exemplos de como o padding pode se comportar o padrão e 3 propiedades:
+    padding: top right bottom left; 
+   Com 3 propiedades:  
+    padding: top right-left bottom ; 
+   Com 2 propiedades:
+    padding: top-bottom right-left  ; 
+   */
+
+  padding: 25px;
+  
+  
+  /* padding-top: 100px;
+  padding-right: 200px;
+  padding-bottom: 700px;
+  padding-left: 500px; */
+
+  /* Border (Borda)*/
+  border-left: 10px dotted rgba(255, 255, 255,0.5);
+
+  /* margin: margem (segue o mesmo raciocinio/nomenclatura do padding ) */
+  margin: 0 auto;
+
+
+  /* mudar limites da caixa*/
+  box-sizing: border-box;
+ 
+}
+
