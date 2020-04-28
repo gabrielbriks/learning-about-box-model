@@ -10,4 +10,4 @@ essa ideia fica mais facil de trabalhar com o itens na tela.
     3. Padding (tio|right|bottom|left)
     4. Content (text, image, video)
 
-### Aula ministrada por Mayk Brito [![link]("https://www.youtube.com/watch?v=nhW70H9H4gU")
+### Aula ministrada por Mayk Brito [link]("https://www.youtube.com/watch?v=nhW70H9H4gU")
